@@ -1,4 +1,5 @@
-## Hi there :wave:
+## Hi there :wave: 
+
 
 #### In this small project with react native I made a movie application
 
@@ -10,3 +11,4 @@
 
 
 #### Video class youtube link: https://www.youtube.com/watch?v=wynaCq6CjhA
+<img src="https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png" width="250">
