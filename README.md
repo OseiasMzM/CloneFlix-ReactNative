@@ -1,0 +1,2 @@
+# CloneFlix-ReactNative
+Educational purposes
